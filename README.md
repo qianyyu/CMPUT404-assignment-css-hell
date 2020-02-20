@@ -12,6 +12,13 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+What modifications I had to make to the project gutenberg HTML files
+=================
+1. Remove previous CSS from original HTML file
+2. Link my CSS file to the HTML file
+3. If there were some images in the novel(like the cover), I need to update the paths in HTML file. 
+
+
 License/Copyright
 =================
 
