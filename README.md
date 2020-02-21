@@ -19,6 +19,11 @@ Modifications I made to the project gutenberg HTML files
 - If there were some images in the novel(like the cover), I need to update the paths in HTML file. 
 
 
+Source
+==================
+- Luxury background, Designed by Harryarts / Freepik, https://www.freepik.com/free-vector/luxury-background-shiny-golden-glitters-background_6077457.htm#page=1&query=spark%20background&position=42
+
+
 License/Copyright
 =================
 
