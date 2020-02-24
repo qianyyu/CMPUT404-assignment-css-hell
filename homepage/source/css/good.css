@@ -42,7 +42,8 @@ h1.name{
 	height: 200px;
 	line-height: 200px;
 	text-align: center;
-	font-family: Gill Sans;
+	font-family: Zapfino;
+	color: white;
 	text-shadow:  0 0 3em white;
 	background:  linear-gradient(to right, #276595, 20%, #4096bb);
 }
@@ -151,7 +152,7 @@ div.aboutme{
   width: 100pt;
   height: 100pt;
   border-radius: 50%;
-  box-shadow: 0px 2px 3px 0px;
+  box-shadow: 0px 0px 3px 0px;
 }
 a:link {color:blue; text-decoration:none}
 a:visited {color:blue; text-decoration:none}
